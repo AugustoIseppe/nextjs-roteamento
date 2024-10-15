@@ -1,0 +1,4 @@
+{
+  "/news/page": "app/news/page.js",
+  "/archive/@archive/[[...filter]]/page": "app/archive/@archive/[[...filter]]/page.js"
+}
